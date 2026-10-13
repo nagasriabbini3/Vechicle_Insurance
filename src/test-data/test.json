@@ -1,0 +1,10 @@
+{
+    "make": "Nissan",
+    "enginePerformance": "120",
+    "dateOfManufacture": "01/01/2020",
+    "numberOfSeats": "3",
+    "fuelType": "Petrol",
+    "listPrice": "25000",
+    "licensePlateNumber": "TS09AB1234",
+    "annualMileage": "10000"
+}
