@@ -23,6 +23,6 @@ test('verifying enter vehicle data tab functionality on automobile page',async (
          }
         
 
-        //await vehicaleData.clickNextButton();
+        await vehicaleData.clickNextButton();
 
 })
